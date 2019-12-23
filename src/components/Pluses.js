@@ -9,7 +9,7 @@ class Pluses extends React.Component {
                         <div className="row">
                         <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
                             <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i class="fas fa-award"></i>
+                            <i className="fas fa-award"></i>
                             </span>
                             <h4 className="text-capitalize">
                             Изготовитель <br/> один за Уралом
@@ -20,7 +20,7 @@ class Pluses extends React.Component {
                         </div>
                         <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
                             <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i class="fas fa-layer-group"></i>
+                            <i className="fas fa-layer-group"></i>
                             </span>
                             <h4 className="text-capitalize">
                             Опт крупный <br/> и мелкий
@@ -29,7 +29,7 @@ class Pluses extends React.Component {
                         </div>
                         <div className="col-lg-3 col-md-6 mb-5 mb-md-0">
                             <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i class="fas fa-bolt"></i>
+                            <i className="fas fa-bolt"></i>
                             </span>
                             <h4 className="text-capitalize">
                             Быстрое изготовление
@@ -39,7 +39,7 @@ class Pluses extends React.Component {
                         </div>
                         <div className="col-lg-3 col-md-6">
                             <span className="service-icon rounded-circle mx-auto mb-3">
-                            <i class="fas fa-shield-alt"></i>
+                            <i className="fas fa-shield-alt"></i>
                             </span>
                             <h4 className="text-capitalize">
                             Уставные <br/> материалы
